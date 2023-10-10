@@ -1,0 +1,12 @@
+{
+  "captcha_solver": "capmonster.cloud / 2captcha.com / anti-captcha.com",
+  "captcha_key": "paste captcha key here",
+  "proxies_from_file": true,
+  "minimum_dm_delay": 0.1,
+  "maximum_dm_delay": 0.3,
+  "minimum_ban_delay": 0.1,
+  "maximum_ban_delay": 0.3,
+  "minimum_general_delay": 0.1,
+  "maximum_general_delay": 0.3,
+  "skip_failed": true
+}

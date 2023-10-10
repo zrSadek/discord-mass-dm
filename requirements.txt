@@ -1,0 +1,5 @@
+aiohttp==3.8.3
+discum==1.4.1
+psutil==5.9.4
+webints==0.0.1
+tasksio==0.0.0

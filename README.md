@@ -1,11 +1,11 @@
-<h1 align="center">
+ <h1 align="center">
 💎 Discord Mass DM PY 💎
 <h1 align="center">
 <p align="center"> 
 </p>
   
 ## 〢 Content
-
+ 
 - [📁 Setting up](#setup)
 - [⚔️ Features](#features)
 - [📸 Screenshots](#screenshot)

